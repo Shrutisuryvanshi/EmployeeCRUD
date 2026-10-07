@@ -6,6 +6,9 @@ public class Employee {
 	{
 		System.out.println("Shruti");
 	}
+	public void addName1()
+	{
+		System.out.println("Sakshi");	}
 	
 
 }
